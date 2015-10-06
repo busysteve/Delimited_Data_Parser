@@ -11,7 +11,7 @@ int main( int argc, char **argv )
 			row["fame"].c_str(), row["fname"].c_str(), row["lname"].c_str() );
 	}
 
-
+	return 0;
 }
 
 
